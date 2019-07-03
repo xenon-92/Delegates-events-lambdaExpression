@@ -34,6 +34,7 @@ namespace Chp10_16_whyLambdaSolvedByLambda
             {
                 Console.WriteLine(item);
             }
+            Console.WriteLine("Yeah");
             Console.ReadLine();
         }
     }
